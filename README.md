@@ -9,7 +9,8 @@ A micro-frontend solution where different challenges can be built in different t
 
 ### Micro frontends
 https://martinfowler.com/articles/micro-frontends.html
-https://technologyconversations.com/2015/08/09/including-front-end-web-components-into-microservices/
+
+https://technologyconversations.com/2015/08/09/including-front-end-web-components-into-microservices
 
 ### NX
 https://nx.dev/react
@@ -19,6 +20,7 @@ https://www.toptal.com/front-end/guide-to-monorepos
 
 ### React
 https://reactjs.org/docs/getting-started.html
+
 https://github.com/enaqx/awesome-react
 
 ### Svelte
